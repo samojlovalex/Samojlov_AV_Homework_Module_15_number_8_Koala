@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_15_number_8_Koala</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: StartFragment-->
+    <string name="startButton_Text">Начать</string>
+    <!-- TODO: RegistrationFragment-->
+    <string name="registrationTitleTV_Text">Регистрация</string>
+    <string name="userNameSignUpET_Hint">логин</string>
+    <string name="passwordSignUpET_Hint">пароль</string>
+    <string name="loginSignUpBT_Text">Зарегистрироваться</string>
+    <!-- TODO: Second Activity-->
+    <string name="secondTextViewTV_Hint">Текст закрытия домашнего задания</string>
+    <string name="animationText">На этом тексте заканчивается домашнее задание по теме \"Animation\" модулья № 15 тема № 8</string>
+</resources>

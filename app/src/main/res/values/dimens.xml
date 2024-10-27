@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--TODO: Overall dimensions-->
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="minHeight">48dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <!--TODO: Start Button-->
+    <dimen name="start_button_textSize">25sp</dimen>
+    <!--TODO: Frame background-->
+    <dimen name="frame_radius">20dp</dimen>
+    <dimen name="frame_width">2dp</dimen>
+    <!--TODO: CardView-->
+    <dimen name="margin_CardVieW">8dp</dimen>
+    <dimen name="cardCornerRadius">6dp</dimen>
+    <dimen name="cardElevation">6dp</dimen>
+    <!--TODO: Registration Fragment-->
+    <dimen name="registrationFragment_Padding">16dp</dimen>
+    <dimen name="registrationFragment_Margin">36dp</dimen>
+    <dimen name="registrationFragment_MarginTop">32dp</dimen>
+    <dimen name="imageRadius">160dp</dimen>
+    <dimen name="registrationFragment_PaddingElement">8dp</dimen>
+    <dimen name="registrationFragment_TextSize">20sp</dimen>
+    <dimen name="registrationFragment_Title_TextSize">25sp</dimen>
+    <!--TODO: Second Activity-->
+    <dimen name="endText_TextSize">18sp</dimen>
+
+</resources>
