@@ -11,5 +11,5 @@
     <string name="loginSignUpBT_Text">Зарегистрироваться</string>
     <!-- TODO: Second Activity-->
     <string name="secondTextViewTV_Hint">Текст закрытия домашнего задания</string>
-    <string name="animationText">На этом тексте заканчивается домашнее задание по теме \"Animation\" модулья № 15 тема № 8</string>
+    <string name="animationText">На этом тексте заканчивается домашнее задание по теме \"Animation\", модуль № 15 тема № 8</string>
 </resources>
